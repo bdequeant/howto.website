@@ -1,0 +1,136 @@
+
+p{
+    font-size: 30px;
+    text-align: center;
+    color: #00d2f8
+}
+
+table, th, td{
+    border: 0px solid black;
+    padding: 1px;
+    text-align: center;
+    border-spacing: 1px;
+    border-collapse: collapse;
+    
+}
+
+h1{
+    text-align:center;
+    font-size: 50px;
+    color: #aa36ff
+    
+}
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+    background-color:black;
+    padding: 20px;
+    text-align: center;
+     font-size: 70px;
+    
+}
+
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.workout{
+    font-size: 30px;
+    text-align: center;
+    color: #00d2f8
+}
+
+
+body{
+    background-color: #030303
+}
+
+
+footer{
+    text-align: center;
+    color: #00d2f8;
+    font-size: 30px
+}
+    
+img{
+    text-align: center
+}
+    
+.rapmon{
+    text-align:center
+}
+    
+man{
+    text-align: right
+}
+    
+.H{
+   
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
